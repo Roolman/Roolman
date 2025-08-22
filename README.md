@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I’m Roman Savelev  
 
-<!--
-**Roolman/Roolman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Frontend Developer** with 7+ years of experience delivering scalable, high-load web applications.  
+💡 Skilled in performance optimization, system design, development standards, and monitoring.  
+⚡ Focused on making products **fast, reliable, and easy to maintain**.  
+🤝 I enjoy collaborating with product & design teams to build user-centric solutions that bring measurable results.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Beyond coding
+- 🏗 Shaping architecture & improving engineering culture  
+- 🎯 Mentoring developers to grow their expertise  
+- 📈 Driving impact through clean and scalable solutions  
+
+---
+
+📬 **Let’s connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/roman-savelev-frontend/)
